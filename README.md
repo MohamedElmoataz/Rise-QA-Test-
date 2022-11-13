@@ -1,4 +1,6 @@
 # Rise-QA-Test-
+
+I have attached the selenium jar file and chrome driver, please run them before you run the script.
 Since the task is simple, I  used only one class and method.
 After preparing the environment and downloaded the jar file for the selenium from the main site. and also downloaded the chromeDriver.
 
